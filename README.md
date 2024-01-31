@@ -8,8 +8,8 @@ Bem-vindo ao meu projeto de Lista de Tarefas em Spring Boot! Este repositório f
 - Interface amigável para uma experiência do usuário agradável
 
 ## Tecnologias Utilizadas
-- :spring:: Para o desenvolvimento ágil do backend
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): Estruturação do conteúdo da aplicação
-- ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white): Estilização para uma interface atrativa
-- ![Java](https://img.shields.io/badge/java-%23D92322.svg?style=for-the-badge&logo=java&logoColor=white): Linguagem de programação principal
+- ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-green) Para o desenvolvimento ágil do backend
+- ![HTML](https://img.shields.io/badge/HTML-blue)  Estruturação do conteúdo da aplicação
+- ![CSS](https://img.shields.io/badge/CSS-red)  Estilização para uma interface atrativa
+- ![Java](https://img.shields.io/badge/JAVA-lightblue)  Linguagem de programação principal
 
